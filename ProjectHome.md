@@ -1,0 +1,1 @@
+Ancient War adalah Turn based Strategy Game yang dikembangkan untuk sistem operasi Android. Ancient War memiliki gaya permainan seperti Front Mission, Super robot wars, Final Fantasy tactics, Heroes of might and magic, Master of Orion, dan berbagai game lainnya yang mengharuskan para pemainnya bermain secara bergantian dan mengatur strategi sebaik-baiknya untuk mengalahkan musuh.
